@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/chanel-clone-frontend/static/css/main.c0c4fe49.chunk.css",
+    "main.js": "/chanel-clone-frontend/static/js/main.a59ae53a.chunk.js",
+    "main.js.map": "/chanel-clone-frontend/static/js/main.a59ae53a.chunk.js.map",
+    "runtime-main.js": "/chanel-clone-frontend/static/js/runtime-main.06be5df3.js",
+    "runtime-main.js.map": "/chanel-clone-frontend/static/js/runtime-main.06be5df3.js.map",
+    "static/css/2.ab3cae96.chunk.css": "/chanel-clone-frontend/static/css/2.ab3cae96.chunk.css",
+    "static/js/2.4d755f98.chunk.js": "/chanel-clone-frontend/static/js/2.4d755f98.chunk.js",
+    "static/js/2.4d755f98.chunk.js.map": "/chanel-clone-frontend/static/js/2.4d755f98.chunk.js.map",
+    "index.html": "/chanel-clone-frontend/index.html",
+    "precache-manifest.aa6fb4974213e3a6d82ce55b552f0981.js": "/chanel-clone-frontend/precache-manifest.aa6fb4974213e3a6d82ce55b552f0981.js",
+    "service-worker.js": "/chanel-clone-frontend/service-worker.js",
+    "static/css/2.ab3cae96.chunk.css.map": "/chanel-clone-frontend/static/css/2.ab3cae96.chunk.css.map",
+    "static/css/main.c0c4fe49.chunk.css.map": "/chanel-clone-frontend/static/css/main.c0c4fe49.chunk.css.map",
+    "static/js/2.4d755f98.chunk.js.LICENSE.txt": "/chanel-clone-frontend/static/js/2.4d755f98.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/chanel-clone-frontend/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06be5df3.js",
+    "static/css/2.ab3cae96.chunk.css",
+    "static/js/2.4d755f98.chunk.js",
+    "static/css/main.c0c4fe49.chunk.css",
+    "static/js/main.a59ae53a.chunk.js"
+  ]
+}
